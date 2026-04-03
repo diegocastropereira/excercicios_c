@@ -10,3 +10,4 @@ Um programa simples que utiliza a estrutura `switch` para converter:
 
 ### Como executar:
 Basta compilar o arquivo `conversor_unidades.c` em qualquer compilador C (como o Dev-C++).
+Veja o código aqui: [Conversor de Unidades](conversor_unidades.c)
