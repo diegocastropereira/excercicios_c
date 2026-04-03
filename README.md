@@ -9,5 +9,5 @@ Um programa simples que utiliza a estrutura `switch` para converter:
 - Pesos Colombianos para Reais
 
 ### Como executar:
-Basta compilar o arquivo `conversor_unidades.c` em qualquer compilador C (como o Dev-C++).
-Veja o código aqui: [Conversor de Unidades](conversor_unidades.c)
+Basta compilar o arquivo [Conversor de Unidades](main.c) em qualquer compilador C (como o Dev-C++).
+
