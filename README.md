@@ -11,3 +11,10 @@ Um programa simples que utiliza a estrutura `switch` para converter:
 ### Como executar:
 Basta compilar o arquivo [Conversor de Unidades](main.c) em qualquer compilador C (como o Dev-C++).
 
+## Projeto 2: Calculadora Geométrica
+Um programa simples que utiliza a estrutura `switch` para calcular:
+- Área do círculo, triângulo e quadrado;
+
+### Como executar:
+Basta compilar o arquivo [Calculadora Geométrica](calculadora_geometrica.c) em qualquer compilador C (como o Dev-C++).
+
